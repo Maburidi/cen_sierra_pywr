@@ -1,6 +1,6 @@
-from sierra.base_parameters import BaseParameter
+from cen_sierra_pywr.sierra.base_parameters import BaseParameter
 
-from sierra.utilities.converter import convert
+from cen_sierra_pywr.sierra.utilities.converter import convert
 
 
 class Big_Creek_System_IFRs_2000(BaseParameter):
