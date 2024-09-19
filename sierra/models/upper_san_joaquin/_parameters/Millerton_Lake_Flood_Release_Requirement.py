@@ -1,7 +1,7 @@
-from sierra.base_parameters import BaseParameter
+from cen_sierra_pywr.sierra.base_parameters import BaseParameter
 from datetime import datetime, timedelta
 import numpy as np
-from sierra.utilities.converter import convert
+from cen_sierra_pywr.sierra.utilities.converter import convert
 import math
 
 
